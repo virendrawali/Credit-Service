@@ -1,0 +1,19 @@
+
+<nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand text-white">Credit Service</a>
+    <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()">Logout</button>
+  </nav>
+
+<form #form='ngForm' class="mb-4" autocomplete="off" (submit)="onSubmit(form)">
+    <div class="card m-5" style="width:18rem" *ngIf="userDetails">
+  <div class="form-group">
+      <h2>Withdraw Money</h2>
+      <input class="form-control" #UserName="ngModel" name="balance" [(ngModel)]="formModel.balance" required>
+    </div>
+    <div class="form-row">
+      <div class="form-group col-md-8 offset-md-2">
+        <button type="submit" class="btn btn-lg btn-block" [disabled]="form.invalid">Submit</button>
+      </div>
+    </div>
+    </div>
+  </form>

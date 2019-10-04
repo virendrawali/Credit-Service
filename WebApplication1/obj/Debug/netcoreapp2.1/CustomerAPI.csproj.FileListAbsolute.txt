@@ -1,0 +1,15 @@
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.csprojAssemblyReference.cache
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cache
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cs
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfo.cs
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\CustomerAPI.deps.json
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.json
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.dev.json
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\Virendra\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
